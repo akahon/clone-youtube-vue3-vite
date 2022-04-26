@@ -1,0 +1,4 @@
+# Editor configuration, see http://editorconfig.org
+[*.{js,vue,json,css,scss,md}]
+indent_style = space
+indent_size = 2
